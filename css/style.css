@@ -73,6 +73,17 @@ a,a:hover,a:active{
     width: 24.8%;
     height: 228px;
 }
+.pictures .row .pic .open:hover{
+    cursor: pointer;
+    transform: scale(1.08);
+}
 .tall{
     height: 500px !important;
+}
+.image{
+    margin-top: 60px;
+    text-align: center;
+}
+.image img{
+    max-height: 633px;
 }
